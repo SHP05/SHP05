@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman!</h1>
 <h3 align="center">Currently I am building Full Stack Web Development project and explore new web technologies.</h3>
 
-- 🔭 I’m currently working on Full stack web development. **E-commerce Website**
+- 🔭 I’m currently working on Full stack web development. **E-commerce Website and (Raddit+Medium) Clone(Bloging Website).**
 
 - 🌱 I’m currently learning **React js, Node js and expand my web development skill.**
 
